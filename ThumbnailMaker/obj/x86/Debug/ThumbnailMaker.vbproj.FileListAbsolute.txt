@@ -1,0 +1,10 @@
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\bin\Debug\ThumbnailMaker.exe
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\bin\Debug\ThumbnailMaker.pdb
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\bin\Debug\ThumbnailMaker.xml
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\obj\x86\Debug\WindowsApplication1.frmBmp.resources
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\obj\x86\Debug\WindowsApplication1.frmControls.resources
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\obj\x86\Debug\ThumbnailMaker.vbproj.GenerateResource.Cache
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\obj\x86\Debug\ThumbnailMaker.exe
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\obj\x86\Debug\ThumbnailMaker.xml
+C:\Projects\VS10\ThumbnailMaker\ThumbnailMaker\obj\x86\Debug\ThumbnailMaker.pdb
